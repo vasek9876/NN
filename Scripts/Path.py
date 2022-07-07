@@ -1,0 +1,5 @@
+inputs = "Input"
+output = "Output"
+input_type = ".jpg"
+output_type = ".csv"
+path_to_sample_data = "C:/Users/Dell/Desktop/NN/Sample_data/"
