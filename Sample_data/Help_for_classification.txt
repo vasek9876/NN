@@ -1,0 +1,9 @@
+L,R,F,B,cam_L,cam_R
+
+Auto se může otáčet, ale i pohybobovat do strany
+
+Names:
+Input.jpg,Output.csv (default for some of data but doesn't work)
+Need more sample data:
+Input0-999.jpg
+Output0-999.csv
